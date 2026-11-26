@@ -1,7 +1,4 @@
-<div align="center">
-   <img width="100%" height="200px" alt="download" src="https://github.com/user-attachments/assets/9e595b81-2673-4688-ad8a-9f049f29b143" />
 
-</div>
 
 
 
