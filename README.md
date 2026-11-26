@@ -45,3 +45,12 @@ Sou desenvolvedor focado em criação de interfaces web e aplicações em Python
   <a href="https://www.linkedin.com/in/wemerson-santana-78a8b33b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+    <img alt="github-snake" src="https://githubusercontent.com" />
+  </picture>
+</div>
+
