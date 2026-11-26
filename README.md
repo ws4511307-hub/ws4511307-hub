@@ -54,3 +54,4 @@ Sou desenvolvedor focado em criação de interfaces web e aplicações em Python
   </picture>
 </div>
 
+![Snake animation](https://github.com/ws4511307-hub/ws4511307-hub/blob/output/github-contribution-grid-snake.svg)
