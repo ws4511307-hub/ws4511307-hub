@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
+   <img width="100%" height="200px" alt="download" src="https://github.com/user-attachments/assets/9e595b81-2673-4688-ad8a-9f049f29b143" />
 
-<!--
-**ws4511307-hub/ws4511307-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Olá, bem-vindo ao meu Portfólio 👋
+
+Sou desenvolvedor focado em criação de interfaces web e aplicações em Python com banco de dados.
+
+---
+
+### 🚀 Meus Projetos
+
+* **Clone do Site do Nubank:** Interface inspirada na página inicial do Nubank (HTML e CSS).
+* **Sistema de Entrega de Marmitas:** Aplicação para controle de pedidos (Python e SQLite).
+* **Meu Site:** Projeto de desenvolvimento web pessoal.
+* **Gerador de Senhas:** Ferramenta para criar senhas seguras (Python).
+* **Projeto Trabalho:** Tela de login integrada ao banco de dados (Python e SQLite).
+
+<div align="center">
+  <a href="https://github.com/ws4511307-hub">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ws4511307-hub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ws4511307-hub&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
+
+
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</div>
+  
+  ##
+ 
+<div> 
+  
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ws4511307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wemerson-santana-78a8b33b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
